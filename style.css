@@ -1,0 +1,50 @@
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 5px;
+    right: 0px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    background: lightgreen;
+    margin-top: 0px;
+}
+.link{
+    float: left;
+    padding-top: 5px;
+    padding-left: 350px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-family: 'roboto',sans-serif;
+    font-size: 20px;
+    display: inline;
+}
+.img2{
+    width: 300px;
+    height: 200px;
+}
+#Grids{
+    text-align: center;
+    margin-top: -30px;
+    background: #aede7a;
+}
+#Home{
+    margin-top: 43px;
+    text-align: center;
+    background: #aede7a;
+}
+.img-responsive{
+    width: 1000px;
+  height: 800px;
+  object-fit: contain;
+}
+#Slides{
+    background: #aede7a;
+    text-align: center;
+}
+.last{
+    text-align: center;
+    margin-bottom: 40px;
+    color: green;
+    font-family: 'Courgette';
+}
